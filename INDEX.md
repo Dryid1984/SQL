@@ -13,3 +13,4 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 излишние таблицы inventory, rental и film
 2.2
 ![image](https://github.com/Dryid1984/SQL/assets/152690390/2388074e-7534-47d1-9ac8-faa76b96a104)
+![image](https://github.com/Dryid1984/SQL/assets/152690390/32014428-11f7-49b0-baa5-b317f809fd3f)
